@@ -13,10 +13,10 @@ var firstInt = Number(window.prompt("Enter First Integer"))
 var secondInt = Number(window.prompt("Enter Second Integer"))
 window.alert(Math.max(firstInt,secondInt))
 // Question 4
-var Number = Number(window.prompt("Enter the Integer"))
-if (Number > 0) {
+var number = Number(window.prompt("Enter the Integer"))
+if (number > 0) {
     window.alert("Positive")
-} else if (Number < 0) {
+} else if (number < 0) {
     window.alert("Negative")
 }
 // Question 5

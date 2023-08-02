@@ -1,16 +1,16 @@
-img {
+img{
     position: relative;
+    left: 600px;
 }
-
 #insert1{
-    background-color: tomato;
+    background-color: rgb(244, 87, 87);
 }
 #insert2{
-    background-color: aqua;
+    background-color: rgb(104, 245, 245);
 }
 #insert3{
-    background-color: green;
+    background-color: rgb(131, 250, 131);
 }
 #insert4{
-    background-color: orange;
+    background-color: rgb(245, 245, 137);
 }

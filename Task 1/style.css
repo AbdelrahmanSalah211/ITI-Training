@@ -24,9 +24,10 @@ nav a:hover {
 .Active{
     background-image: url(images/Lab-1.jpg);
     color: rgb(0, 48, 145);
-    width: 1500px;
+    width: 1480px;
     height: 250px;
     position: relative;
+    margin-left: 20px;
 }
 .Active h3{
     position: absolute;
@@ -40,7 +41,8 @@ nav a:hover {
 }
 .do{
     color: black;
-    background-color: white;
+    background: white;
+    padding: 30px;
 }
 .box-container{
     display: flex;
@@ -59,6 +61,6 @@ nav a:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 30px;
 }
 
