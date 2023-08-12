@@ -1,14 +1,11 @@
-# ITI-Training
+# ITI Web Fundamentals Training
 
-[Task 1](Task%201/)
-
-[Task 2](Task%202/)
-
-[Task 3](Task%203/)
-
-[Task 4](Task%204/)
-
-[Task 5](Task%205/)
+* [Task 1](Task%201/)
+* [Task 2](Task%202/)
+* [Task 3](Task%203/)
+* [Task 4](Task%204/)
+* [Task 5](Task%205/)
+* [Task 6](Task%206/)
 
 ```
 
@@ -43,6 +40,10 @@ ITI-Training
 |     ├── images                       # folder contains images used in the task
 |     ├── index.html
 |     └── style.css
+|
+├── Task 5                             # Bootstrap second session task
+|     ├── images                       # folder contains images used in the task
+|     └── index.html
 |
 └── readme.md
 
